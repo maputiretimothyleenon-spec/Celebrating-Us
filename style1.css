@@ -132,10 +132,18 @@ section{
     transition: 0.3s;
 }
 #memory-container{
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 50px;
+    gap: 1px;
+    border-left: 3px solid gold;
+    text-align: left;
     word-spacing: 5px;
     white-space: pre-line;
     line-height: 1.8;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-bottom: 20px;
+    max-width: 700px;
+    margin: auto;
    
 }
 .memory-card{
