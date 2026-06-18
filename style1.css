@@ -25,7 +25,7 @@ body{
     
 @media (max-width: 768px) {
 
-    .the-plan {
+    .hidden {
         width: 100%;
         padding: 0 15px;
         text-align: center;
