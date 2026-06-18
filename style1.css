@@ -323,6 +323,7 @@ body.memory-open{
     max-width: 500px;
     font-size: medium;
     border-left:3px solid #D4AF37;
+    border-top:3px solid #D4AF37;
 }
 .message-box.show{
     opacity: 1;
