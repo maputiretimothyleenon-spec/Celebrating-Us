@@ -356,6 +356,9 @@ body.memory-open{
 
 #future-message{
     margin-top:30px;
+    word-spacing: 5px;
+    white-space: pre-line;
+    line-height: 1.8;
 }
 #our-memories{
     text-align:center;
