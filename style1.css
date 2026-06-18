@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: 0;
 }
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600&display=swap');
 body{
     background-color: black;
     background:  radial-gradient(circle at top, #1a1a1a, #0B0B0B 70%);
@@ -22,7 +23,15 @@ body{
     width: 100%;
     padding: 20px;
     
+@media (max-width: 768px) {
 
+    .the-plan {
+        width: 100%;
+        padding: 0 15px;
+        text-align: center;
+    }
+
+}
 }
 h1{
     font-size: 3rem;
